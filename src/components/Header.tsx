@@ -7,7 +7,7 @@ export default function Header() {
         notmycode blog
       </h1>
       <nav className="flex gap-4 sm:gap-6">
-        <Link className="text-gray-900 dark:text-white" href="">
+        <Link className="text-gray-900 dark:text-white" href="/">
           Home
         </Link>
         <Link className="text-gray-900 dark:text-white" href="/about">
