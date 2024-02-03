@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
     <main className="flex items-center  justify-center">
-      <div className=" prose dark:prose-invert ">
+      <div className="prose p-2 dark:prose-invert ">
         {posts.map((post) => (
           <article key={post._id}>
             <Link href={post.url}>
