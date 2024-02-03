@@ -1,1 +1,1 @@
-Markdown based blog for notmycode 
+Markdown based blog for notmycode

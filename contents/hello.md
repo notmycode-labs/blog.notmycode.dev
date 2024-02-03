@@ -7,4 +7,3 @@ description: The first post marks the beginning of something!
 
 Hello from mac
 someone who developed this blog
-

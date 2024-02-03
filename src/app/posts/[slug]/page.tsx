@@ -18,7 +18,6 @@ const PostLayout = ({ params }: { params: { slug: string } }) => {
   return (
     <main className="px-4 py-6 md:py-12 lg:py-16">
       <article className="prose prose-zinc max-w-none mx-auto lg:max-w-6xl dark:prose-invert prose-pre:border prose-pre:bg-zinc-200 prose-pre:text-gray-800 dark:prose-pre:border-gray-700 dark:prose-pre:text-gray-200 dark:prose-pre:bg-zinc-900 rounded-lg">
-
         <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl">
           {post.title}
         </h1>
